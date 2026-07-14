@@ -28,7 +28,7 @@ The generated dataset can be used for Vision-Language-Action (VLA), Behavior Clo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_NAME/flexiv-rizon4s-mujoco-data-collection.git
+git clone https://github.com/Alchemist77/mujoco-vla-data-collection
 
 cd flexiv-rizon4s-mujoco-data-collection
 ```
@@ -111,4 +111,4 @@ If you use this repository in your research, please cite it as:
 
 ## License
 
-MIT License
+This project is licensed under the MIT License. See the LICENSE file for details.
